@@ -1,0 +1,10 @@
+name: LobbyOperation
+main: com.micahhenney.lobbyoperation.LobbyOperation
+version: 0.1.0-SNAPSHOT
+depend:
+  - Citizens
+commands:
+  addBedwarsTrait:
+    description: add trait to selected npc
+    usage: /addBedwarsTrait
+    aliases: []
